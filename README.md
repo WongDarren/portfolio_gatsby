@@ -1,19 +1,10 @@
-# gatsby-starter-stellar
+#  My Portfolio 
 
-**This starter has been updated for Gatsby.js V2.**
+**Based on the Gatsby Starter gatsby-starter-stellar**
 
-**The older V1 version of this starter can be found in the V1 branch**
+Here's my portfolio showcasing a little bit about myself - a biography, projects, and hobbies. Check it out!
 
-Gatsby.js V2 starter based on the Stellar site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
-
-## Preview
+## Preview Starter
 
 https://gatsby-stellar.surge.sh/
 
-## Installation
-
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br>
-`gatsby new gatsby-starter-stellar https://github.com/codebushi/gatsby-starter-stellar`
-
-Run `gatsby develop` in the terminal to start the dev site.

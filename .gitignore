@@ -8,6 +8,6 @@ LICENSE
 
 # Build directory
 /public
-/src/assets/images
+# /src/assets/images
 .DS_Store
 
