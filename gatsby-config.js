@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Darren Wong - Portfolio",
+    title: "Darren Wong",
     author: "Darren Wong",
     description: "My portfolio."
   },
