@@ -8,6 +8,7 @@
 		.content {
 			// added margin-right here and took off margin-left in .image
 			margin-right: 4em;
+			margin-left: 4em;
 			@include vendor('flex', '1');
 
 			> :last-child {

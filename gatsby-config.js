@@ -1,4 +1,6 @@
 module.exports = {
+  pathPrefix: "/wongdarren.github.io",
+  
   siteMetadata: {
     title: "Darren Wong - Portfolio",
     author: "Darren Wong",
