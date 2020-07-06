@@ -1,0 +1,13 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+package-lock.json
+yarn.lock
+LICENSE
+
+# Build directory
+/public
+/src/assets/images
+.DS_Store
+

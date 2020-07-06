@@ -1,0 +1,44 @@
+[ 
+  {
+    "id": 1,
+    "title": "Monsters Rolodex",
+    "subtitle": "Introduction to React",
+    "link": "https://github.com/WongDarren/monsters-rolodex",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/monsters.png?alt=media&token=9a1864d5-7cbd-4785-8751-bda79d18a475"
+  },
+  {
+    "id": 2,
+    "title": "Crwn Clothing",
+    "subtitle": "E-Commerce React Website",
+    "link": "https://github.com/WongDarren/crwn-clothing",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/crown.png?alt=media&token=b044c3a3-01c5-4572-9679-a52eb4723a39"
+  },
+  {
+    "id": 3,
+    "title": "Dim Sum Café",
+    "subtitle": "Website for a Local Restaurant",
+    "link": "http://www.dimsumcafenv.com/",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/dimsum.jpg?alt=media&token=ee565b24-f7c3-43ec-ac51-a6bfbfc8622c"
+  },
+  {
+    "id": 4,
+    "title": "Sight Words Work",
+    "subtitle": "UNLV Senior Design Project",
+    "link": "https://github.com/WongDarren/sightwordsrock",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/sight.png?alt=media&token=08c49da8-71c5-41bc-8f32-1618382f389f"
+  },
+  {
+    "id": 5,
+    "title": "Canny Edge Detection",
+    "subtitle": "Digital Image Processing",
+    "link": "https://github.com/WongDarren/CannyEdgeDetection",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/canny.png?alt=media&token=0a16ff57-ce46-4445-b50f-076fc08cc6aa"
+  },
+  {
+    "id": 6,
+    "title": "Get RGB Values",
+    "subtitle": "Digital Image Processing",
+    "link": "https://github.com/WongDarren/getRGB",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/rgb.png?alt=media&token=305050f2-d3ae-45d3-9fe0-9c7e4d47c7e7"
+  }
+]
