@@ -43,6 +43,9 @@
 			.content {
 				@include vendor('flex', '0 1 auto');
 				width: 100%;
+				.bio {
+					text-align: left;
+				}
 
 				header {
 					&.major {
