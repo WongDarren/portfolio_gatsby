@@ -1,41 +1,55 @@
 [ 
   {
     "id": 1,
+    "title": "Flex",
+    "subtitle": "MERN Stack Social Networking App",
+    "link": "https://github.com/WongDarren/flex",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/flex.png?alt=media&token=0532a3cc-d6d1-46f2-9d56-8216fa6388d3"
+  },
+  {
+    "id": 2,
+    "title": "Bulls and Cows",
+    "subtitle": "Unreal Engine C++ Command Line Game",
+    "link": "https://github.com/WongDarren/BullCowGame",
+    "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/bullscows.png?alt=media&token=41c6afa5-ad12-4c14-8940-08e746c9e01e"
+  },
+  {
+    "id": 3,
     "title": "Monsters Rolodex",
     "subtitle": "Introduction to React",
     "link": "https://github.com/WongDarren/monsters-rolodex",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/monsters.png?alt=media&token=9a1864d5-7cbd-4785-8751-bda79d18a475"
   },
   {
-    "id": 2,
+    "id": 4,
     "title": "Crwn Clothing",
     "subtitle": "E-Commerce React Website",
     "link": "https://github.com/WongDarren/crwn-clothing",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/crown.png?alt=media&token=b044c3a3-01c5-4572-9679-a52eb4723a39"
   },
   {
-    "id": 3,
+    "id": 5,
     "title": "Dim Sum Café",
     "subtitle": "Website for a Local Restaurant",
     "link": "http://www.dimsumcafenv.com/",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/dimsum.jpg?alt=media&token=ee565b24-f7c3-43ec-ac51-a6bfbfc8622c"
   },
   {
-    "id": 4,
+    "id": 6,
     "title": "Sight Words Rock",
     "subtitle": "UNLV Senior Design Project",
     "link": "https://github.com/WongDarren/sightwordsrock",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/sight.png?alt=media&token=08c49da8-71c5-41bc-8f32-1618382f389f"
   },
   {
-    "id": 5,
+    "id": 7,
     "title": "Canny Edge Detection",
     "subtitle": "Digital Image Processing",
     "link": "https://github.com/WongDarren/CannyEdgeDetection",
     "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-db-652ba.appspot.com/o/canny.png?alt=media&token=0a16ff57-ce46-4445-b50f-076fc08cc6aa"
   },
   {
-    "id": 6,
+    "id": 8,
     "title": "Get RGB Values",
     "subtitle": "Digital Image Processing",
     "link": "https://github.com/WongDarren/getRGB",
